@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['xbee',['XBee',['../class_x_bee.html',1,'XBee'],['../class_x_bee.html#a8a60ce7fd2b58e495b436d046e730e0b',1,'XBee::XBee()']]],
-  ['xbeeserial',['XBeeSerial',['../class_x_bee_serial.html',1,'XBeeSerial'],['../class_x_bee_serial.html#a9ee7ddd4b45096a6112798be1be09080',1,'XBeeSerial::XBeeSerial()']]]
+  ['xtal_640',['XTAL',['../class_l_r11x0.html#a3ccfd35d26960457214d2a0192d6b312',1,'LR11x0::XTAL()'],['../class_s_x126x.html#ada0fe6c3d31885952b439135cf0c18f1',1,'SX126x::XTAL()']]]
 ];
